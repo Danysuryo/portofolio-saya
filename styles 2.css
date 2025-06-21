@@ -1,0 +1,21 @@
+div {
+  color: aliceblue;
+  padding: 40px;
+  width: 10px;
+  height: 10px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#Kotak1 {
+  background-color: blue;
+}
+#Kotak2 {
+  background-color: brown;
+}
+#Kotak3 {
+  background-color: burlywood;
+  background-color: blueviolet;
+}
