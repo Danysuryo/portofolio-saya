@@ -4,44 +4,6 @@ section {
 }
 
 .custom-thumbnail {
-  border: 6px solid #c00f0f79 !important; /* Warna border biru Bootstrap */
+  border: 6px solid #15c00f79 !important; /* Warna border biru Bootstrap */
   box-shadow: 0 0 15px hsl(0, 100%, 50%) !important; /* Shadow default */
-}
-
-.hero-box .box p {
-  width: 500px;
-}
-
-.bg-primary {
-  background-color: var(--my-custom-color) !important;
-}
-
-.text-primary {
-  color: var(--my-custom-color) !important;
-}
-
-.btn-primary {
-  background-color: var(--my-custom-color) !important;
-  border-color: var(--my-custom-color) !important;
-}
-
-.btn-outline-primary {
-  color: var(--my-custom-color) !important;
-}
-
-.btn-outline-primary {
-  color: var(--my-custom-color) !important;
-  border-color: var(--my-custom-color) !important;
-}
-
-.btn-outline-primary:hover,
-.btn-outline-primary:active,
-.btn-outline-primary:focus {
-  color: #fff !important;
-  background-color: var(--my-custom-color);
-  border-color: var(--my-custom-color);
-}
-
-:root {
-  --my-custom-color: #eb343a;
 }
